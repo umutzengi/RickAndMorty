@@ -9,8 +9,9 @@
 - React Native
 
 ## Tools
-- Custom Hooks
+- Custom Hooks for API fetch
 - React Navigation
+- Lottie animations for loading and errror screens
 
 ## Features 
 - Listing returned characters with API.
@@ -31,12 +32,15 @@ To use it after cloning the project:
 <br>
 `code .`
 <br>
-<br>
 Run the following commands in the project folder to install the project dependencies.
 <br>
 `npm init`
 <br>
 `npm install`
+<br>
+For ios use you need to install pods with this command in your project folder
+<br>
+`cd ios && pod install`
 <br>
 <br>
 These instructions will get a copy of the project up and running on your local machine for development and testing purposes.
